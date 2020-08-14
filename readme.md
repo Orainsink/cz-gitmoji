@@ -1,16 +1,18 @@
 # cz-gitmoji-customize
 
-> Commitizen adapter formatting commit messages using emojis.
+> Commitizen adapter formatting commit messages using emojis. 
+
+**This program was folked from [cz-emoji](https://github.com/ngryman/cz-emoji) ** 
 
 **cz-gitmoji-customize** allows you to easily use emojis in your commits using [commitizen].
 
 ```sh
 ? Select the type of change you are committing: (Use arrow keys)
-❯ feature   :sparkles:  New features.
-  fix       :bug:  Fix a bug.
-  docs      :pencil:  Write docs.
-  refactor  :art:  Improve structure / format of the code.
-  chore     🔩  A chore change
+❯ feature   Feat: :sparkles:  New features.
+  fix       Fix :bug:  Fix a bug.
+  docs      Docs: :pencil:  Write docs.
+  refactor  Refactor: :art:  Improve structure / format of the code.
+  chore     Chore: 🔩  A chore change
 ```
 
 ## Install
