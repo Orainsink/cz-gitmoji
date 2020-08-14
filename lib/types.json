@@ -33,7 +33,7 @@
     "emoji": "🚧",
     "code": "WIP: :construction:",
     "description": "Work in progress.",
-    "name": "wip"
+    "name": "working"
   },
   {
     "emoji": "🐛",
@@ -45,13 +45,13 @@
     "emoji": "🚑",
     "code": "Hotfix: :ambulance:",
     "description": "Critical hotfix.",
-    "name": "quickfix"
+    "name": "hotfix"
   },
   {
     "emoji": "♻️",
     "code": "Refactor: :recycle:",
     "description": " Refactoring code.",
-    "name": "refactoring"
+    "name": "refactor"
   },
   {
     "emoji": "🔥",
@@ -82,7 +82,7 @@
     "emoji": "💩",
     "code": "Shit: :poop:",
     "description": "Writing bad code that needs to be improved.",
-    "name": "poo"
+    "name": "shit"
   },
   {
     "emoji": "⏪",
@@ -94,13 +94,13 @@
     "emoji": "📦",
     "code": "Dep: :package:",
     "description": "Change dependencies.",
-    "name": "dep-up"
+    "name": "dependence"
   },
   {
     "emoji": "💥",
     "code": "Boom: :boom:",
     "description": "Introducing breaking changes.",
-    "name": "breaking"
+    "name": "boom"
   },
   {
     "emoji": "🎉",
@@ -112,13 +112,7 @@
     "emoji": "🙈",
     "code": "Ignore: :see_no_evil:",
     "description": "Adding or updating a .gitignore file",
-    "name": "see-no-evil"
-  },
-  {
-    "emoji": "🔒",
-    "code": "Security: :lock:",
-    "description": "Fixing security issues.",
-    "name": "security"
+    "name": "ignore"
   },
   {
     "emoji": "👷",
