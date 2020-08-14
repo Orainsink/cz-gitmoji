@@ -1,10 +1,10 @@
 {
-  "name": "cz-emoji",
-  "version": "1.2.2",
+  "name": "cz-gitmoji-customize",
+  "version": "1.2.3",
   "description": "Commitizen adapter formatting commit messages using emojis.",
   "author": "Nicolas Gryman <ngryman@gmail.com> (http://ngryman.sh/)",
   "license": "MIT",
-  "repository": "ngryman/cz-emoji",
+  "repository": "Orainsink/cz-gitmoji-customize",
   "main": "index.js",
   "engines": {
     "node": ">=4"
